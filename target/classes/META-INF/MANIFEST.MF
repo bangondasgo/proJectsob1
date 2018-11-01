@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: proJectsob1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: noy
+Implementation-Vendor-Id: com.cs
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/com.cs
+Created-By: Maven Integration for Eclipse
+
